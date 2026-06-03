@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/bashtool/__init__.py
+src/bashtool/core.py
+src/bashtool/langchain_tool.py
+src/bashtool.egg-info/PKG-INFO
+src/bashtool.egg-info/SOURCES.txt
+src/bashtool.egg-info/dependency_links.txt
+src/bashtool.egg-info/requires.txt
+src/bashtool.egg-info/top_level.txt
+tests/test_bashtool.py
