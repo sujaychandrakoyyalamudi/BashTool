@@ -1,0 +1,48 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.eggs/
+.egg-info/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.python-version
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
