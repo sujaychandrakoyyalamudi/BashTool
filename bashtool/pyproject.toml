@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/bashtool/bashtool"
-Documentation = "https://github.com/bashtool/bashtool#readme"
-Repository = "https://github.com/bashtool/bashtool.git"
+Homepage = "https://github.com/sujaychandrakoyyalamudi/BashTool"
+Documentation = "https://github.com/sujaychandrakoyyalamudi/BashTool#readme"
+Repository = "https://github.com/sujaychandrakoyyalamudi/BashTool.git"
 
 [tool.setuptools.packages.find]
 where = ["src"]
